@@ -4,7 +4,7 @@ logs
 /logs
 
 # Deployment builds
-dist
+#dist
 
 # Dependency directories
 node_modules
